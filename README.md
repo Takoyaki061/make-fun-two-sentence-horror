@@ -6,7 +6,7 @@
 
 A two-sentence horror story for make.fun's **Two-Sentence Horror** bounty — the scariest story in exactly two sentences, up to 400 characters, judged pairwise by a house judge.
 
-> The night nurse leaves a glass of water by bed four, even though bed four has been empty for a month. Last night the glass was empty, and the sheets were warm.
+> The night nurse leaves a glass of water by bed four, even though bed four has been empty for a month. Last night the glass was empty, and the sheets were still warm.
 
 The program writes that story to `/output/entry.txt` and nothing else. Python standard library only, deterministic, no network. The pick (over 8 candidates, critiqued against the kit's judge brief) is documented in [CANDIDATES.md](CANDIDATES.md).
 

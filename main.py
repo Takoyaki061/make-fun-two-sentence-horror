@@ -1,11 +1,11 @@
 #!/usr/bin/env python3
 """Two-Sentence Horror — make.fun entry.
 
-The entry is a horror story of exactly two sentences, 159 characters:
+The entry is a horror story of exactly two sentences, 165 characters:
 
     The night nurse leaves a glass of water by bed four, even though
     bed four has been empty for a month. Last night the glass was
-    empty, and the sheets were warm.
+    empty, and the sheets were still warm.
 
 Why this story: the second sentence reframes the first on a second read —
 the nurse's kind routine stops being routine and becomes evidence that
@@ -27,7 +27,7 @@ import re
 STORY = (
     "The night nurse leaves a glass of water by bed four, even though "
     "bed four has been empty for a month. "
-    "Last night the glass was empty, and the sheets were warm."
+    "Last night the glass was empty, and the sheets were still warm."
 )
 
 OUTPUT_PATH = "/output/entry.txt"

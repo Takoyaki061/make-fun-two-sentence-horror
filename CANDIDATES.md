@@ -39,8 +39,8 @@ build.
 - Very strong reframe: a fun public machine captured something private and violating. Concrete, implied, frightening. Weakness vs the pick: the second sentence is more a reveal than a re-reading of the first — the booth itself doesn't become worse, the bedroom does.
 
 ### G. Bed four — PICKED
-> The night nurse leaves a glass of water by bed four, even though bed four has been empty for a month. Last night the glass was empty, and the sheets were warm.
-- 158 characters, exactly two sentences.
+> The night nurse leaves a glass of water by bed four, even though bed four has been empty for a month. Last night the glass was empty, and the sheets were still warm.
+- 165 characters, exactly two sentences.
 - Criterion 1: "the sheets were warm" is a gut-punch — someone/something lay there minutes ago, in a bed that has been empty for a month.
 - Criterion 2: the second sentence reframes the first completely. The nurse's kind routine stops being routine: the water was being drunk all along. On re-read, "leaves a glass of water" is no longer care, it's evidence.
 - Criterion 3: nothing is explained. Who drank? What lay down? The reader fills in the worst.
@@ -58,3 +58,27 @@ not just the situation) and beats B on criterion 1 (the dread is immediate and
 bodily — warm sheets — rather than abstract and distant). G beats H on
 criterion 5 (fresher image). G is the strongest across the judge's ordered
 criteria.
+
+## DeepSeek's late candidates (arrived after the pick was built)
+
+DeepSeek's background retry eventually succeeded and returned 6 more
+candidates (saved in ~/workspace/makefun/ds-out/two-sentence-horror-candidates1.txt):
+
+1. Daughter's nightlight humming grandmother's lullaby — dead-grandmother trope, weak.
+2. Last tenant's coats facing the wall, pockets sewn shut from the inside — creepy image, horror too abstract.
+3. Ice tray refilling itself; cubes shaped like my teeth — very original, but uncanny rather than frightening.
+4. Grief counselor; husband's key turning twice — dead-spouse trope, familiar shape.
+5. Phone autocorrecting "alone" to "almost" — clever, but the turn is a pun, not a revelation; "it answered that I was almost" is ungrammatical.
+6. Son's heartbeat recording with a second rhythm underneath — dead-child territory, recording trope is familiar.
+
+Head-to-head (DeepSeek as critic, saved in ds-out/two-sentence-horror-headtohead.txt):
+G ("bed four") beat #5. Verdict: "A's second sentence converts a odd habit
+into an occupant: something drank, something lay down. The horror stays
+physical and unexplained. B's turn is a pun, not a revelation."
+The pick stands.
+
+## Final polish (from the head-to-head critique)
+
+"Warm" could read as freshly laundered, so the final text uses "still warm":
+"...and the sheets were still warm." — sharper and stranger. 165 chars,
+exactly two sentences.
